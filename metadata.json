@@ -1,0 +1,8 @@
+{
+  "name": "Mr Test: Trợ lý tạo Prompt Trò Chơi Học Tập - cùng Thầy Trần Đông (01 trò chơi)",
+  "description": "App giúp giáo viên tự động tạo ra các câu lệnh (prompt) chi tiết để tạo game học tập tương tác bằng HTML/CSS/JS thông qua Gemini, ChatGPT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
